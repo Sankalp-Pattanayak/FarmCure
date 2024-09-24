@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
     <pre><code>cd FarmCure</code></pre>
   </li>
   <li>Install the required packages:
-    <pre><code>pip install -r requirements.txt</code></pre>
+    <pre><code>pip install -r requirement.txt</code></pre>
   </li>
 </ol>
 
