@@ -1,7 +1,8 @@
 <h1>🌿 Plant Disease Detection System</h1>
 
 <p>Welcome to the <strong>Plant Disease Detection System</strong>! This project leverages deep learning techniques using image classification and CNNs to detect diseases in plant leaves. It highlights the disease-affected areas, sharpens blurry images, and provides a detailed breakdown of healthy vs. diseased parts of the leaf. The application also suggests relevant treatment articles and YouTube videos for further guidance.</p>
-
+<h2>Dataset Link</h2>
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
 <h2>🛠 Features</h2>
 <ul>
   <li><strong>Disease Detection & Highlighting</strong>: The system identifies and visually highlights disease-affected portions of the leaf for easy interpretation.</li>
@@ -14,8 +15,8 @@
 <h2>📋 Installation</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/plant-disease-detection.git</code></pre>
-    <pre><code>cd plant-disease-detection</code></pre>
+    <pre><code>git clone https://github.com/Sankalp-Pattanayak/FarmCure.git</code></pre>
+    <pre><code>cd FarmCure</code></pre>
   </li>
   <li>Install the required packages:
     <pre><code>pip install -r requirements.txt</code></pre>
