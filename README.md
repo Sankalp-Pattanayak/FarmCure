@@ -36,13 +36,5 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
   <li><strong>Result Display</strong>: A visual comparison of the original and processed images, along with the detection results, is shown.</li>
 </ol>
 
-<h2>🧪 Example</h2>
-<p><strong>Upload an image of a leaf:</strong></p>
-<img src="path-to-before-image" alt="Before Processing">
-<p><strong>Processed result with disease highlighted:</strong></p>
-<img src="path-to-after-image" alt="After Processing">
-<p>The application also provides a percentage breakdown:</p>
-<pre><code>Healthy Leaf Area: 75%<br>Diseased Leaf Area: 25%</code></pre>
-
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
